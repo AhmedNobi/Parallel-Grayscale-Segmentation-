@@ -4,6 +4,7 @@ depending on some data attributes (pixel intensities (most popular), depth, or a
 data attributes that may be accompanied with each pixel or with a set of neighbouring 
 pixels). We’ll do it using pixel intensities on grayscale images.
 
+
 ![image](example.PNG)
 
 
