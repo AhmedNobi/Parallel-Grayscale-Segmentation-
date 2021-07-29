@@ -5,6 +5,7 @@ data attributes that may be accompanied with each pixel or with a set of neighbo
 pixels). We’ll do it using pixel intensities on grayscale images.
 
 
+
 ![image](example.PNG)
 
 
